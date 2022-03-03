@@ -1,4 +1,3 @@
 # samuellukudu.github.io
-Mic check one two.
-Am taking github very seriously.
-See you soon.
+I will be sharing many of my kaggle notebook competitions here. 
+All explanations are contained in the notebooks.
